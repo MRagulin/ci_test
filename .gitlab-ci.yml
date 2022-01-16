@@ -1,0 +1,2 @@
+job:
+    script: cat readme1.txt readme2.txt | grep -q 'Hello world!'
